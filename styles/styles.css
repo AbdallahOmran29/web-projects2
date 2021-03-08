@@ -1,0 +1,39 @@
+body {
+    background-color: #282828;
+   }
+   p,h1,h2,ul,span,h3 {
+       color: #37bcd4 ;
+      
+
+   }
+
+   @font-face {
+    font-family: 'Rubik', sans-serif;
+    src: url(sansation_light.woff);
+  }
+  
+  p, h1, h2, ul, span,h3 {
+    font-family: 'Rubik', sans-serif;
+  }
+
+
+  .box {
+    background-color: #303333;
+    border: 1px solid;
+    border-color: #3ab6b0;
+    margin-left: 25%;
+    width: 50%;
+    margin-bottom: 2px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  img{
+    vertical-align: middle;
+    text-align: right;
+  }
